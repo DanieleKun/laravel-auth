@@ -40125,15 +40125,27 @@ var app = new Vue({
 
 /***/ }),
 
+/***/ "./resources/sass/front.scss":
+/*!***********************************!*\
+  !*** ./resources/sass/front.scss ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ 0:
-/*!****************************************************************!*\
-  !*** multi ./resources/js/front.js ./resources/sass/back.scss ***!
-  \****************************************************************/
+/*!********************************************************************************************!*\
+  !*** multi ./resources/js/front.js ./resources/sass/back.scss ./resources/sass/front.scss ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! C:\Users\DanielePC\Desktop\Boolean\Esercizi\PHP\_LARAVEL\laravel-auth\resources\js\front.js */"./resources/js/front.js");
-module.exports = __webpack_require__(/*! C:\Users\DanielePC\Desktop\Boolean\Esercizi\PHP\_LARAVEL\laravel-auth\resources\sass\back.scss */"./resources/sass/back.scss");
+__webpack_require__(/*! C:\Users\DanielePC\Desktop\Boolean\Esercizi\PHP\_LARAVEL\laravel-auth\resources\sass\back.scss */"./resources/sass/back.scss");
+module.exports = __webpack_require__(/*! C:\Users\DanielePC\Desktop\Boolean\Esercizi\PHP\_LARAVEL\laravel-auth\resources\sass\front.scss */"./resources/sass/front.scss");
 
 
 /***/ })

@@ -18,6 +18,7 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/back.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/front.css') }}" rel="stylesheet">
     <script src="{{ asset('js/back.js') }}" defer></script>
 </head>
 <body>
